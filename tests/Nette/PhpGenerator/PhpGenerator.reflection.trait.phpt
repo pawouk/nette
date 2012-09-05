@@ -1,14 +1,14 @@
 <?php
 
 /**
- * Test: Nette\Utils\PhpGenerator generator.
+ * Test: Nette\PhpGenerator generator.
  *
  * @author     David Grudl
- * @package    Nette\Utils
+ * @package    Nette\PhpGenerator
  * @phpversion 5.4
  */
 
-use Nette\Utils\PhpGenerator\ClassType;
+use Nette\PhpGenerator\ClassType;
 
 
 

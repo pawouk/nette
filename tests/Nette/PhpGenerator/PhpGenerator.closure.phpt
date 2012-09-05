@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Test: Nette\Utils\PhpGenerator & closure.
+ * Test: Nette\PhpGenerator & closure.
  *
  * @author     David Grudl
  * @package    Nette\Utils
  */
 
-use Nette\Utils\PhpGenerator\Method;
+use Nette\PhpGenerator\Method;
 
 
 
