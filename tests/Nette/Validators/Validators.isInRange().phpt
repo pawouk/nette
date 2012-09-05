@@ -4,7 +4,7 @@
  * Test: Nette\Validators\Validators::isInRange()
  *
  * @author     David Grudl
- * @package    Nette\Utils
+ * @package    Nette
  */
 
 use Nette\Validators\Validators;
